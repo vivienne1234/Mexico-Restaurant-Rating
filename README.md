@@ -72,8 +72,7 @@ What are the consumer demographics? Does this indicate a bias in the data sample
 
 The dataset reveals that a significant portion of respondents are young adults between the ages of 18 and 27, with the majority being students and single. This suggests a possible demographic bias toward younger, single individuals in the sample. As a result, the findings, particularly in terms of cuisine preferences and restaurant ratings, may be more reflective of this group's tastes and experiences, potentially limiting the generalizability of the results to older or more diverse consumer segments.
 
-<img width="821" height="225" alt="Image" src="https://github.com/user-attachments/assets/b84c3ecd-5c68-4568-a268-a450e5c51bfd" />
-
+<img width="821" height="225" alt="Image" src="https://github.com/user-attachments/assets/7e959396-0939-42b6-902b-abff6deb9078" />
 
 ### Question 3
 
@@ -83,6 +82,14 @@ The data highlights multiple opportunities where demand exceeds current supply. 
 
 <img width="387" height="265" alt="Image" src="https://github.com/user-attachments/assets/51edd12e-4e3b-416d-b343-aaaa12f53259" />
 <img width="409" height="234" alt="Image" src="https://github.com/user-attachments/assets/e5d83db7-76d6-4f13-b932-afbc2c0d7830" />
+
+Additionally, Mexican cuisine shows consistent demand across all budget ranges, especially in the medium segment. However, affordable restaurants with high ratings  such as Tortas Locas Hipocampo and Puesto de Tacos, are relatively few. This indicates a strong market gap for high-quality, low-to-mid-priced dining options.
+There is also modest but unmet demand for cuisines like American, Cafeteria, and Pizzeria, particularly in the mid-budget category, where consumer interest is visible, but the number of high-rated options is limited.
+
+<img width="409" height="234" alt="Image" src="https://github.com/user-attachments/assets/e5d83db7-76d6-4f13-b932-afbc2c0d7830" />
+
+Together, these findings suggest untapped opportunities in offering high-quality, culturally aligned, and affordable food experiences, especially in environments that prioritize health, ambiance, and service.
+
 
 
 
