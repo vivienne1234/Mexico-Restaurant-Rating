@@ -86,9 +86,71 @@ The data highlights multiple opportunities where demand exceeds current supply. 
 Additionally, Mexican cuisine shows consistent demand across all budget ranges, especially in the medium segment. However, affordable restaurants with high ratings  such as Tortas Locas Hipocampo and Puesto de Tacos, are relatively few. This indicates a strong market gap for high-quality, low-to-mid-priced dining options.
 There is also modest but unmet demand for cuisines like American, Cafeteria, and Pizzeria, particularly in the mid-budget category, where consumer interest is visible, but the number of high-rated options is limited.
 
-<img width="409" height="234" alt="Image" src="https://github.com/user-attachments/assets/e5d83db7-76d6-4f13-b932-afbc2c0d7830" />
+<img width="3848" height="1208" alt="Image" src="https://github.com/user-attachments/assets/ebafe9ab-97ea-4e22-ae69-8af3c7d5587a" />
 
 Together, these findings suggest untapped opportunities in offering high-quality, culturally aligned, and affordable food experiences, especially in environments that prioritize health, ambiance, and service.
+
+
+
+### Question 4
+
+If you were to invest in a restaurant, which characteristics would you be looking for?
+
+- Alcohol Service
+  
+Restaurants with a none alcohol bar tend to receive higher service ratings, suggesting that offering a non-alcoholic bar attract a broader clientele and enhance the overall dining experience.
+
+- Smoking Policy
+  
+Investing in a non-smoking environment aligns with both majority consumer preferences (72.56%) and public health trends, making it a favorable and sustainable choice.
+
+- Cuisine Type
+  
+Mexican cuisine shows the highest consumer preference across all budgets. However, restaurants can stand out by offering a modern twist on traditional recipes or emphasizing premium ingredients for added value.
+
+- Price Point
+  
+The medium price range caters to the largest market segment and provides room for balancing affordability with profitability. High-rated, medium-priced restaurants like Tortas Locas Hipocampo demonstrate this opportunity clearly.
+ 
+- Location Strategy
+  
+Targeting cities like San Luis Potosi  with higher overall restaurant ratings can improve the odds of success by leveraging existing consumer satisfaction trends and local demand.
+ 
+
+
+### Conclusion
+Focusing on these characteristics creates a data-driven blueprint for building a restaurant that resonates with consumer preferences, stands out in the market, and offers strong investment potential.
+
+
+
+
+
+### Dashboard
+
+<img width="608" height="341" alt="Image" src="https://github.com/user-attachments/assets/b17e5620-3ad5-4a5f-8c60-f9854cb4c908" />
+
+
+
+### Recommendation
+
+Based on the data analysis, consumer preferences, and market gaps identified from the chart insights, the following strategic recommendations are proposed to guide restaurant investment decisions and operational priorities.
+
+#### Key Recommendations
+
+- Focus on High-Demand Cuisines
+ 
+Prioritize Mexican cuisine, which dominates consumer preferences and correlates strongly with high restaurant ratings. Consider adding a unique culinary twist to stand out in a competitive space.
+
+- Target the Medium Price Range
+
+Most top-rated restaurants operate within the medium pricing tier. This range offers the best balance between affordability for consumers and profitability for investors.
+- Choose Non-Smoking, Non-Alcohol Friendly Environments
+
+Restaurants that do not allow smoking and none alcohol services tend to receive higher service ratings. This combination appeals to health-conscious and experience-driven customers.
+
+
+
+
 
 
 
